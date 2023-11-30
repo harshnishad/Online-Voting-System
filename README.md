@@ -17,12 +17,17 @@ Secure electronic voting with encryption.
 Real-time result tabulation.
 
 Under the Guidence of :
+
 Ms Ruchi Talwar (Technical trainer)
 
 Project Collaborator:
+
 Ashutosh Dixit-H-2115000232
+
 Harsh Nishad-G-2115000440 
+
 Raunak Pandey-H-2115000833 
+
 Prince Kumar Arya-G-2115000763
 
 
